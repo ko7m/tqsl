@@ -270,3 +270,6 @@ tests/gtest-1.7.0/xcode/Samples/FrameworkSample/widget_test.cc
 tests/gtest-1.7.0/xcode/Scripts/runtests.sh
 tests/gtest-1.7.0/xcode/Scripts/versiongenerate.py
 tests/gtest-1.7.0/xcode/gtest.xcodeproj/project.pbxproj
+
+# Misc
+tags
